@@ -1,0 +1,1 @@
+# alteracao-na-rotina-devido-o-covid19---transformar-dados-categoricos-em-binarios.ipynb
